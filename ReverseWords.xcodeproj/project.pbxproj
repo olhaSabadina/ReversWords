@@ -24,6 +24,7 @@
 		58121DFC2909805A008863D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		58121DFF2909805A008863D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		58121E012909805A008863D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5852CE37290C508E00875D6A /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		58121DE729098058008863D9 = {
 			isa = PBXGroup;
 			children = (
+				5852CE37290C508E00875D6A /* Readme.md */,
 				58121DF229098058008863D9 /* Reverse words */,
 				58121DF129098058008863D9 /* Products */,
 			);
@@ -102,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 58121DEB29098058008863D9 /* Build configuration list for PBXProject "Reverse words" */;
+			buildConfigurationList = 58121DEB29098058008863D9 /* Build configuration list for PBXProject "ReverseWords" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -337,7 +339,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		58121DEB29098058008863D9 /* Build configuration list for PBXProject "Reverse words" */ = {
+		58121DEB29098058008863D9 /* Build configuration list for PBXProject "ReverseWords" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				58121E022909805A008863D9 /* Debug */,
